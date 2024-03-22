@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(115, 180, 204, 0.647);
+    background-color: rgba(151, 170, 224, 0.728);
     width: 100vw;
     height: 100vh;
     margin: auto;
@@ -21,7 +21,7 @@ body {
 
 h1 {
     font-size: xx-large;
-    color: navy;
+    color: black;
     text-align: center;
 }
 
