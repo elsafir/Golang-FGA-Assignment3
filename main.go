@@ -32,5 +32,5 @@ func main() {
 
 	// Mulai server HTTP
 	fmt.Println("Server dimulai di localhost:9000")
-	http.ListenAndServe(":1000", nil)
+	http.ListenAndServe(":9000", nil)
 }
